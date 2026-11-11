@@ -1,5 +1,8 @@
 # PMHQ
 
+> 原仓库：[linyuchen/PMHQ](https://github.com/linyuchen/PMHQ)
+> 本仓库是 CyberPi 维护用的 fork / 私有镜像，代码以上游为准。
+
 Pure memory hook for QQNT
 
 ## Web UI
